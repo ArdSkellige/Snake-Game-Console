@@ -1,0 +1,1 @@
+int snake_size = 3;
